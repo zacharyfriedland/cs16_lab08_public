@@ -1,2 +1,1 @@
-# cs16_lab08_public
-Anagrams, palindromes: Strings and recursion
+# PRIVATE-lab08-starter-code
